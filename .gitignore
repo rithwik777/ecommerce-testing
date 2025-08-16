@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Selenium / Reports
+chromedriver.exe
+report.html
+*.png
+
+# IDE
+.idea/
+*.iml
